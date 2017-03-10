@@ -1,0 +1,32 @@
+.resultado {
+    width:100%;
+    cursor:pointer;
+    background-color: #ECECEC;
+    margin-top: 1px;
+    padding-bottom: 5px;
+    padding: 5px;
+
+}
+
+.resultado:hover {
+    background-color:#999999;
+    color:#FFFFFF;
+}
+
+#codigo  {
+    width:100%;
+
+}
+
+#codigo .item{
+    float: left;
+}
+
+#result {
+    background-color: #EDEDED;
+    clear: both;
+    color: #999999;
+    margin-bottom: 10px;
+    padding: 5px;
+   
+}

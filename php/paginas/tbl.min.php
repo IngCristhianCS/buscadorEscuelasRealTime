@@ -1,0 +1,1 @@
+<?php if (isset($_GET['t'])&&isset($_SESSION['TIPO_USUARIO'])){cuerpoTabla($_GET['t']);print '<script type="text/javascript">window.location.href="#"</script>';}else{noLogueado();}?>
